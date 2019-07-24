@@ -1,5 +1,6 @@
 # Amadora Urbar Art API
-An easy way to appreciate an get infos about urban artists from Amadora
+An easy way to appreciate an get infos about urban artists from Amadora.
+Amadora urban art API is running [here](https://amadora-urban-art-api.herokuapp.com/api/art)
 
 ## Installing and running
 - Clone the repo
